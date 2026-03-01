@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Ошибка 404 | Панель администратора Matreshka</title>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="application-name" content="Matreshka Panel">
+<meta name="theme-color" content="#8649D4">
+<meta name="description" content="Панель администратора Matreshka">
+<meta name="robots" content="none">
+<meta name="yandex-verification" content="4d9e93a09b42e7a3" />
+<script type="text/javascript">
+(function(m, e, t, r, i, k, a) {
+    m[i] = m[i] || function() {
+        (m[i].a = m[i].a || []).push(arguments)
+    };
+    m[i].l = 1 * new Date();
+    for (var j = 0; j < document.scripts.length; j++) {
+        if (document.scripts[j].src === r) {
+            return;
+        }
+    }
+    k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k,
+        a)
+})
+(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ym(92870891, "init", {
+    clickmap: true,
+    trackLinks: true,
+    accurateTrackBounce: true,
+    webvisor: true
+});
+</script>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/92870891" style="position:absolute; left:-9999px;" alt="" /></div>
+</noscript>    <link href="/assets/libs/select2/select2.min.css" rel="stylesheet" type="text/css" />
+
+<link href="/assets/css/v3.0/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+<link href="/assets/css/v3.0/app.min.css" id="app-style" rel="stylesheet" type="text/css" /><link href="/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+<link href="/assets/libs/toastr/build/toastr.min.css" rel="stylesheet" type="text/css" />
+<link href="/assets/libs/sweetalert2/sweetalert2.min.css" rel="stylesheet" type="text/css" />
+<link href="/assets/libs/bootstrap-datepicker/css/bootstrap-datepicker.min.css" rel="stylesheet" type="text/css">
+<link href="/assets/libs/spectrum-colorpicker2/spectrum.min.css" rel="stylesheet" type="text/css">
+<link href="/assets/libs/bootstrap-timepicker/css/bootstrap-timepicker.min.css" rel="stylesheet" type="text/css">
+<link href="/assets/libs/bootstrap-touchspin/jquery.bootstrap-touchspin.min.css" rel="stylesheet" type="text/css" />
+<link href="/assets/libs/@chenfengyuan/datepicker/datepicker.min.css" rel="stylesheet">
+<link href="/assets/css/v3.0/main.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /></head>
+
+<body>
+
+<div class="account-pages my-5 pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="text-center mb-5">
+                    <h1 class="display-2 fw-medium">4<i class="bx bx-buoy bx-spin text-primary display-3"></i>4</h1>
+                    <h4 class="text-uppercase">Увы, такой страницы не существует</h4>
+                    <div class="mt-5 text-center">
+                        <a class="btn btn-primary waves-effect waves-light" href="/">Вернуться на главную</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-xl-6">
+                <div>
+                    <img src="/assets/images/error-img.png" alt="" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="right-bar">
+    <div data-simplebar class="h-100">
+        <div class="rightbar-title d-flex align-items-center px-3 py-4">
+
+            <h5 class="m-0 me-2"></h5>
+
+            <a href="javascript:void(0);" class="right-bar-toggle ms-auto">
+                <i class="mdi mdi-close noti-icon"></i>
+            </a>
+        </div>
+
+        <hr class="mt-0" />
+        <h6 class="text-center mb-0"></h6>
+
+        <div class="p-4">
+            <div class="mb-2">
+                <img src="/assets/images/themes/auto-theme.svg" class="img-fluid img-thumbnail" alt="">
+            </div>
+            <div class="form-check form-switch mb-3">
+                <input class="form-check-input theme-choice" type="checkbox" id="auto-mode-switch" checked>
+                <label class="form-check-label" for="auto-mode-switch"></label>
+            </div>
+
+            <div class="mb-2">
+                <img src="/assets/images/themes/light-theme.svg" class="img-fluid img-thumbnail" alt="">
+            </div>
+            <div class="form-check form-switch mb-3">
+                <input class="form-check-input theme-choice" type="checkbox" id="light-mode-switch">
+                <label class="form-check-label" for="light-mode-switch"></label>
+            </div>
+
+            <div class="mb-2">
+                <img src="/assets/images/themes/dark-theme.svg" class="img-fluid img-thumbnail" alt="">
+            </div>
+            <div class="form-check form-switch mb-3">
+                <input class="form-check-input theme-choice" type="checkbox" id="dark-mode-switch" data-bsStyle="/assets/css/bootstrap-dark.min.css" data-appStyle="/assets/css/app-dark.min.css">
+                <label class="form-check-label" for="dark-mode-switch"></label>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="rightbar-overlay"></div>
+<!-- JAVASCRIPT -->
+<script src="/assets/libs/jquery/jquery.min.js"></script>
+<script src="/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/libs/metismenu/metisMenu.min.js"></script>
+<script src="/assets/libs/simplebar/simplebar.min.js"></script>
+<script src="/assets/libs/node-waves/waves.min.js"></script>
+<script src="/assets/libs/toastr/build/toastr.min.js"></script>
+<script src="/assets/libs/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
+<script src="/assets/libs/bootstrap-datepicker/locales/bootstrap-datepicker.ru.min.js"></script>
+<script>
+var styles_version = 'v3.0';
+$.fn.datepicker.defaults.language = 'ru';
+$.fn.datepicker.defaults.clearBtn = true;
+</script>
+<script src="/assets/libs/spectrum-colorpicker2/spectrum.min.js"></script>
+<script src="/assets/libs/bootstrap-timepicker/js/bootstrap-timepicker.min.js"></script>
+<script src="/assets/libs/bootstrap-touchspin/jquery.bootstrap-touchspin.min.js"></script>
+<script src="/assets/libs/bootstrap-maxlength/bootstrap-maxlength.min.js"></script>
+<script src="/assets/libs/@chenfengyuan/datepicker/datepicker.min.js"></script>
+<script src="/assets/libs/sweetalert2/sweetalert2.min.js"></script>
+<script src="/assets/libs/select2/select2.min.js"></script>
+<script src="/assets/libs/jquery-cookies/jquery.cookie.js"></script>
+<script src="/assets/js/socket.io.min.js"></script>
+<script src="/assets/js/v3.6/app.js"></script>
+</body>
+
+</html>
