@@ -1,0 +1,60 @@
+/* Тёмная панель авторизации */
+.auth-full-page-content {
+    background-color: #2a3042 !important;
+}
+.auth-full-page-content .text-primary {
+    color: #a78bfa !important;
+}
+.auth-full-page-content .text-muted {
+    color: #94a3b8 !important;
+}
+.auth-full-page-content .form-label {
+    color: #e2e8f0 !important;
+}
+.auth-full-page-content .form-control {
+    background-color: #1e2433;
+    border-color: #3d4454;
+    color: #f1f5f9;
+}
+.auth-full-page-content .form-control::placeholder {
+    color: #64748b;
+}
+.auth-full-page-content .form-control:focus {
+    background-color: #1e2433;
+    border-color: #8649D4;
+    color: #f1f5f9;
+}
+.auth-full-page-content .input-group .btn-light {
+    background-color: #3d4454;
+    border-color: #3d4454;
+    color: #94a3b8;
+}
+.auth-full-page-content .input-group .btn-light:hover {
+    background-color: #4a5063;
+    border-color: #4a5063;
+    color: #e2e8f0;
+}
+.auth-full-page-content .dropdown .btn {
+    background-color: transparent;
+    border-color: #3d4454;
+}
+.auth-full-page-content .mb-0 {
+    color: #94a3b8 !important;
+}
+.auth-full-page-content a.text-muted {
+    color: #94a3b8 !important;
+}
+.auth-full-page-content a.text-muted:hover {
+    color: #a78bfa !important;
+}
+
+.bg-custom {
+    background: linear-gradient(to right, #8649D4, #662BB1) !important;
+}
+.color-custom {
+    color: #fff !important;
+}
+
+.tr-click {
+    cursor: pointer;
+}
